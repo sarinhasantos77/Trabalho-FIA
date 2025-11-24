@@ -5,6 +5,7 @@ João Ricardo Neto,
 Sara Oliveira, 
 João Victor, 
 Rodrigo Cunha,
+Isaque Costa,
 Vinicius Oliveira e
 Bruno José
 ## Obejtivo
